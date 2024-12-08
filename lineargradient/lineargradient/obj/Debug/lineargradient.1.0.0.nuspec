@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>lineargradient</id>
+    <version>1.0.0</version>
+    <authors>lineargradient</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="17d75e5aef55c8fab49926d780b4e03da9796cab" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\OneDrive\Masaüstü\e\lineargradient\lineargradient\bin\Debug\net8.0-windows\lineargradient.runtimeconfig.json" target="lib\net8.0-windows7.0\lineargradient.runtimeconfig.json" />
+    <file src="C:\Users\User\OneDrive\Masaüstü\e\lineargradient\lineargradient\bin\Debug\net8.0-windows\lineargradient.dll" target="lib\net8.0-windows7.0\lineargradient.dll" />
+  </files>
+</package>

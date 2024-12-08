@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|solutionrelative:lineargradient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|solutionrelative:lineargradient\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|solutionrelative:lineargradient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88FE2378-F90E-4837-9C80-62D97874842E}|lineargradient\\lineargradient.csproj|solutionrelative:lineargradient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Form1.cs",
+              "RelativeDocumentMoniker": "lineargradient\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Form1.cs",
+              "RelativeToolTip": "lineargradient\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBAAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:33:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Resource1.resx",
+              "RelativeDocumentMoniker": "lineargradient\\Resource1.resx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Resource1.resx",
+              "RelativeToolTip": "lineargradient\\Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-08T17:30:44.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Form1.cs",
+              "RelativeDocumentMoniker": "lineargradient\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "lineargradient\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:29:47.8Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lineargradient\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\e\\lineargradient\\lineargradient\\Form1.Designer.cs",
+              "RelativeToolTip": "lineargradient\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:29:35.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
